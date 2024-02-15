@@ -5,7 +5,7 @@ authors = [
     "Fin Christensen <christensen.fin@gmail.com>",
     "Johannes Wünsche <johannes.wuensche97@gmail.com>",
 ]
-edition = "2018"
+edition = "2021"
 description = "A view wrapper for gyscos/cursive views which aligns child views"
 license = "BSD-3-Clause"
 readme = "README.md"
